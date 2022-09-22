@@ -23,3 +23,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `Preview of project`![weather app](https://user-images.githubusercontent.com/85150651/191721719-8cbf0824-da5d-4c60-8187-c59576d17310.jpg)
